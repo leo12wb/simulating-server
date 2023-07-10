@@ -3,6 +3,7 @@
     {
       "id": 1,
       "numero": 56,
+      "data_conselho":"17/12/2023",
       "turma_nome":"700",
       "turma_id": 34,
       "segmento_nome": "Fundamental II",
@@ -46,7 +47,6 @@
               "nota":95
             }
           ],
-          "frequencia": 85,
           "frequencia_porcento": 90,
           "resultado_final": "Promovido(Pr)",
           "progressao_parcial":[
@@ -76,7 +76,6 @@
               "nota":95
             }
           ],
-          "frequencia": 85,
           "frequencia_porcento": 90,
           "resultado_final": "Promovido(Pr)",
           "progressao_parcial":[]
@@ -101,7 +100,6 @@
               "nota":92
             }
           ],
-          "frequencia": 85,
           "frequencia_porcento": 90,
           "resultado_final": "Promovido(Prc) por Conselho",
           "progressao_parcial":[]
@@ -126,7 +124,6 @@
               "nota":92
             }
           ],
-          "frequencia": 85,
           "frequencia_porcento": 90,
           "resultado_final": "Retido(Ret)",
           "progressao_parcial":[]
