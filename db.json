@@ -276,6 +276,141 @@
       ]
     }
     
+  ],
+  "ata":[
+    {
+      "id": 1,
+      "numero": 56,
+      "turma_nome":"700",
+      "turma_id": 34,
+      "segmento_nome": "Fundamental II",
+      "segmento_id": 3,
+      "serie_nome":"Ano 7",
+      "serie_id":56,
+      "escola_mome": "Maria da Penha",
+      "escola_id":4,
+      "turma_disciplinas": [
+        {
+          "id": 3,
+          "disciplina": "Matematica"
+        },
+        {
+          "id": 12,
+          "disciplina": "Língua Portuguesa"
+        },
+        {
+          "id": 6,
+          "disciplina": "História"
+        }
+      ],
+      "alunos": [
+        {
+          "id":57,
+          "nome": "João Paulo Oliveira da Silva",
+          "disciplinas": [
+            {
+              "id": 3,
+              "disciplina": "Matematica",
+              "nota":78
+            },
+            {
+              "id": 12,
+              "disciplina": "Língua Portuguesa",
+              "nota":48
+            },
+            {
+              "id": 6,
+              "disciplina": "História",
+              "nota":95
+            }
+          ],
+          "frequencia": 85,
+          "frequencia_porcento": 90,
+          "resultado_final": "Promovido(Pr)",
+          "progressao_parcial":[
+            {
+             "disciplina_id":12,
+             "disciplina": "Língua Portuguesa"
+            }
+          ]
+        },
+        {
+          "id":57,
+          "nome": "Mateus Silveira",
+          "disciplinas": [
+            {
+              "id": 3,
+              "disciplina": "Matematica",
+              "nota":78
+            },
+            {
+              "id": 12,
+              "disciplina": "Língua Portuguesa",
+              "nota":48
+            },
+            {
+              "id": 6,
+              "disciplina": "História",
+              "nota":95
+            }
+          ],
+          "frequencia": 85,
+          "frequencia_porcento": 90,
+          "resultado_final": "Promovido(Pr)",
+          "progressao_parcial":[]
+        },
+        {
+          "id":96,
+          "nome": "Livia Ramos",
+          "disciplinas": [
+            {
+              "id": 3,
+              "disciplina": "Matematica",
+              "nota":12
+            },
+            {
+              "id": 12,
+              "disciplina": "Língua Portuguesa",
+              "nota":90
+            },
+            {
+              "id": 6,
+              "disciplina": "História",
+              "nota":92
+            }
+          ],
+          "frequencia": 85,
+          "frequencia_porcento": 90,
+          "resultado_final": "Promovido(Prc) por Conselho",
+          "progressao_parcial":[]
+        },
+        {
+          "id":96,
+          "nome": "Maria Clara Amaral da Silva Peixoto",
+          "disciplinas": [
+            {
+              "id": 3,
+              "disciplina": "Matematica",
+              "nota":12
+            },
+            {
+              "id": 12,
+              "disciplina": "Língua Portuguesa",
+              "nota":15
+            },
+            {
+              "id": 6,
+              "disciplina": "História",
+              "nota":92
+            }
+          ],
+          "frequencia": 85,
+          "frequencia_porcento": 90,
+          "resultado_final": "Retido(Ret)",
+          "progressao_parcial":[]
+        }
+      ]
+    }
   ]
 
 }
