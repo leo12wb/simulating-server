@@ -1,282 +1,138 @@
-{
-  "ficha":[
+{ 
+  "ata":[
     {
       "id": 1,
-      "totaldialetivo": "200",
-      "escola_nome": "Escola ABC",
-      "aluno_nome": "João da Silva",
-      "sexo": "Masculino",
-      "mae": "Maria da Silva",
-      "pai": "José da Silva",
-      "data_nascimento": "10/05/2008",
-      "naturalidade": "São Paulo",
-      "endereco": "Rua das Flores, 123",
-      "anoletivo": "2023",
-      "segmento_escolar": "Fundamental I",
-      "ano_de_escolaridade": "3º ano",
-      "turma": "A",
-      "turno": "Manhã",
-      "aluno_foi_considerado": "Aprovado",
-      "data": "05/07/2023",
-      "controle_de_frequencia": {
-        "p1": 0,
-        "p2": 0,
-        "p3": 0,
-        "p4": 0,
-        "percentual_de_frequencia": 60,
-        "total_frequencia": 0,
-        "total": 0
-      },
-      "observacao_geral": "",
-      "resultado_final": "aprovado",
-      "aulas_dadas": 300,
-      "calculo_global_aulas": 0.5,
-      "calculo_global_frequencia": 0.7,
-      "componentes_curriculares": [
+      "numero": 56,
+      "turma_nome":"700",
+      "turma_id": 34,
+      "segmento_nome": "Fundamental II",
+      "segmento_id": 3,
+      "serie_nome":"Ano 7",
+      "serie_id":56,
+      "escola_mome": "Maria da Penha",
+      "escola_id":4,
+      "turma_disciplinas": [
         {
-          "area": "Matemática",
-          "nome_componente": "Matemática",
-          "p1_letivo": {
-            "nota": 85,
-            "aulas_dadas": 200,
-            "presenca": 95
-          },
-          "p2_letivo": {
-            "nota": 85,
-            "aulas_dadas": 200,
-            "presenca": 95
-          },
-          "p3_letivo": {
-            "nota": 85,
-            "aulas_dadas": 200,
-            "presenca": 95
-          },
-          "p4_letivo": {
-            "nota": 85,
-            "aulas_dadas": 200,
-            "presenca": 95
-          },
-          "calculo_geral": {
-              "nota_parcial_final": 70,
-              "recuperacao_final": 80,
-              "resultado_anual": 60,
-              "total_aulas_dadas": 400,
-              "total_frequencia": 400,
-              "porcentagem_frequencia": 80
-          },
-          "nota_final": 85,
-          "observacao": ""
+          "id": 3,
+          "disciplina": "Matematica"
         },
         {
-          "area": "Linguagens",
-          "nome_componente": "Português",
-          "p1_letivo": {
-            "nota": 78,
-            "aulas_dadas": 200,
-            "presenca": 92
-          },
-          "p2_letivo": {
-            "nota": 85,
-            "aulas_dadas": 200,
-            "presenca": 95
-          },
-          "p3_letivo": {
-            "nota": 85,
-            "aulas_dadas": 200,
-            "presenca": 95
-          },
-          "p4_letivo": {
-            "nota": 85,
-            "aulas_dadas": 200,
-            "presenca": 95
-          },
-          "calculo_geral": {
-              "nota_parcial_final": 70,
-              "recuperacao_final": 80,
-              "resultado_anual": 60,
-              "total_aulas_dadas": 400,
-              "total_frequencia": 400,
-              "porcentagem_frequencia": 80
-          },
-          "nota_final": 78,
-          "observacao": ""
+          "id": 12,
+          "disciplina": "Língua Portuguesa"
         },
         {
-          "area": "Ciências Humanas",
-          "nome_componente": "Geografia",
-          "p1_letivo": {
-            "nota": 92,
-            "aulas_dadas": 200,
-            "presenca": 97
-          },
-          "p2_letivo": {
-            "nota": 85,
-            "aulas_dadas": 200,
-            "presenca": 95
-          },
-          "p3_letivo": {
-            "nota": 85,
-            "aulas_dadas": 200,
-            "presenca": 95
-          },
-          "p4_letivo": {
-            "nota": 85,
-            "aulas_dadas": 200,
-            "presenca": 95
-          },
-          "calculo_geral": {
-              "nota_parcial_final": 70,
-              "recuperacao_final": 80,
-              "resultado_anual": 60,
-              "total_aulas_dadas": 400,
-              "total_frequencia": 400,
-              "porcentagem_frequencia": 80
-          },
-          "nota_final": 92,
-          "observacao": ""
+          "id": 6,
+          "disciplina": "História"
         }
-      ]
-    },
-    
-    {
-      "id": 2,
-      "totaldialetivo": "200",
-      "escola_nome": "Escola ABC",
-      "aluno_nome": "Lucas Rangel",
-      "sexo": "Masculino",
-      "mae": "Mariana da Silva",
-      "pai": "",
-      "data_nascimento": "06/12/2007",
-      "naturalidade": "Rio de janeiro",
-      "endereco": "Rua das Flores, 123",
-      "anoletivo": "2023",
-      "segmento_escolar": "Fundamental I",
-      "ano_de_escolaridade": "3º ano",
-      "turma": "A",
-      "turno": "Manhã",
-      "aluno_foi_considerado": "Aprovado",
-      "data": "05/07/2023",
-      "controle_de_frequencia": {
-        "p1": 0,
-        "p2": 0,
-        "p3": 0,
-        "p4": 0,
-        "percentual_de_frequencia": 60,
-        "total_frequencia": 0,
-        "total": 0
-      },
-      "observacao_geral": "",
-      "resultado_final": "aprovado",
-      "aulas_dadas": 300,
-      "calculo_global_aulas": 0.5,
-      "calculo_global_frequencia": 0.7,
-      "componentes_curriculares": [
+      ],
+      "alunos": [
         {
-          "area": "Matemática",
-          "nome_componente": "Matemática",
-          "p1_letivo": {
-            "nota": 85,
-            "aulas_dadas": 200,
-            "presenca": 95
-          },
-          "p2_letivo": {
-            "nota": 85,
-            "aulas_dadas": 200,
-            "presenca": 95
-          },
-          "p3_letivo": {
-            "nota": 85,
-            "aulas_dadas": 200,
-            "presenca": 95
-          },
-          "p4_letivo": {
-            "nota": 85,
-            "aulas_dadas": 200,
-            "presenca": 95
-          },
-          "calculo_geral": {
-              "nota_parcial_final": 70,
-              "recuperacao_final": 80,
-              "resultado_anual": 60,
-              "total_aulas_dadas": 400,
-              "total_frequencia": 400,
-              "porcentagem_frequencia": 80
-          },
-          "nota_final": 85,
-          "observacao": ""
+          "id":57,
+          "nome": "João Paulo Oliveira da Silva",
+          "disciplinas": [
+            {
+              "id": 3,
+              "disciplina": "Matematica",
+              "nota":78
+            },
+            {
+              "id": 12,
+              "disciplina": "Língua Portuguesa",
+              "nota":48
+            },
+            {
+              "id": 6,
+              "disciplina": "História",
+              "nota":95
+            }
+          ],
+          "frequencia": 85,
+          "frequencia_porcento": 90,
+          "resultado_final": "Promovido(Pr)",
+          "progressao_parcial":[
+            {
+             "disciplina_id":12,
+             "disciplina": "Língua Portuguesa"
+            }
+          ]
         },
         {
-          "area": "Linguagens",
-          "nome_componente": "Português",
-          "p1_letivo": {
-            "nota": 78,
-            "aulas_dadas": 200,
-            "presenca": 92
-          },
-          "p2_letivo": {
-            "nota": 85,
-            "aulas_dadas": 200,
-            "presenca": 95
-          },
-          "p3_letivo": {
-            "nota": 85,
-            "aulas_dadas": 200,
-            "presenca": 95
-          },
-          "p4_letivo": {
-            "nota": 85,
-            "aulas_dadas": 200,
-            "presenca": 95
-          },
-          "calculo_geral": {
-              "nota_parcial_final": 70,
-              "recuperacao_final": 80,
-              "resultado_anual": 60,
-              "total_aulas_dadas": 400,
-              "total_frequencia": 400,
-              "porcentagem_frequencia": 80
-          },
-          "nota_final": 78,
-          "observacao": ""
+          "id":57,
+          "nome": "Mateus Silveira",
+          "disciplinas": [
+            {
+              "id": 3,
+              "disciplina": "Matematica",
+              "nota":78
+            },
+            {
+              "id": 12,
+              "disciplina": "Língua Portuguesa",
+              "nota":48
+            },
+            {
+              "id": 6,
+              "disciplina": "História",
+              "nota":95
+            }
+          ],
+          "frequencia": 85,
+          "frequencia_porcento": 90,
+          "resultado_final": "Promovido(Pr)",
+          "progressao_parcial":[]
         },
         {
-          "area": "Ciências Humanas",
-          "nome_componente": "Geografia",
-          "p1_letivo": {
-            "nota": 92,
-            "aulas_dadas": 200,
-            "presenca": 97
-          },
-          "p2_letivo": {
-            "nota": 85,
-            "aulas_dadas": 200,
-            "presenca": 95
-          },
-          "p3_letivo": {
-            "nota": 85,
-            "aulas_dadas": 200,
-            "presenca": 95
-          },
-          "p4_letivo": {
-            "nota": 85,
-            "aulas_dadas": 200,
-            "presenca": 95
-          },
-          "calculo_geral": {
-              "nota_parcial_final": 70,
-              "recuperacao_final": 80,
-              "resultado_anual": 60,
-              "total_aulas_dadas": 400,
-              "total_frequencia": 400,
-              "porcentagem_frequencia": 80
-          },
-          "nota_final": 92,
-          "observacao": ""
+          "id":96,
+          "nome": "Livia Ramos",
+          "disciplinas": [
+            {
+              "id": 3,
+              "disciplina": "Matematica",
+              "nota":12
+            },
+            {
+              "id": 12,
+              "disciplina": "Língua Portuguesa",
+              "nota":90
+            },
+            {
+              "id": 6,
+              "disciplina": "História",
+              "nota":92
+            }
+          ],
+          "frequencia": 85,
+          "frequencia_porcento": 90,
+          "resultado_final": "Promovido(Prc) por Conselho",
+          "progressao_parcial":[]
+        },
+        {
+          "id":96,
+          "nome": "Maria Clara Amaral da Silva Peixoto",
+          "disciplinas": [
+            {
+              "id": 3,
+              "disciplina": "Matematica",
+              "nota":12
+            },
+            {
+              "id": 12,
+              "disciplina": "Língua Portuguesa",
+              "nota":15
+            },
+            {
+              "id": 6,
+              "disciplina": "História",
+              "nota":92
+            }
+          ],
+          "frequencia": 85,
+          "frequencia_porcento": 90,
+          "resultado_final": "Retido(Ret)",
+          "progressao_parcial":[]
         }
       ]
     }
-    
   ]
-  
 
 }

@@ -1,0 +1,282 @@
+{
+  "ficha":[
+    {
+      "id": 1,
+      "totaldialetivo": "200",
+      "escola_nome": "Escola ABC",
+      "aluno_nome": "João da Silva",
+      "sexo": "Masculino",
+      "mae": "Maria da Silva",
+      "pai": "José da Silva",
+      "data_nascimento": "10/05/2008",
+      "naturalidade": "São Paulo",
+      "endereco": "Rua das Flores, 123",
+      "anoletivo": "2023",
+      "segmento_escolar": "Fundamental I",
+      "ano_de_escolaridade": "3º ano",
+      "turma": "A",
+      "turno": "Manhã",
+      "aluno_foi_considerado": "Aprovado",
+      "data": "05/07/2023",
+      "controle_de_frequencia": {
+        "p1": 0,
+        "p2": 0,
+        "p3": 0,
+        "p4": 0,
+        "percentual_de_frequencia": 60,
+        "total_frequencia": 0,
+        "total": 0
+      },
+      "observacao_geral": "",
+      "resultado_final": "aprovado",
+      "aulas_dadas": 300,
+      "calculo_global_aulas": 0.5,
+      "calculo_global_frequencia": 0.7,
+      "componentes_curriculares": [
+        {
+          "area": "Matemática",
+          "nome_componente": "Matemática",
+          "p1_letivo": {
+            "nota": 85,
+            "aulas_dadas": 200,
+            "presenca": 95
+          },
+          "p2_letivo": {
+            "nota": 85,
+            "aulas_dadas": 200,
+            "presenca": 95
+          },
+          "p3_letivo": {
+            "nota": 85,
+            "aulas_dadas": 200,
+            "presenca": 95
+          },
+          "p4_letivo": {
+            "nota": 85,
+            "aulas_dadas": 200,
+            "presenca": 95
+          },
+          "calculo_geral": {
+              "nota_parcial_final": 70,
+              "recuperacao_final": 80,
+              "resultado_anual": 60,
+              "total_aulas_dadas": 400,
+              "total_frequencia": 400,
+              "porcentagem_frequencia": 80
+          },
+          "nota_final": 85,
+          "observacao": ""
+        },
+        {
+          "area": "Linguagens",
+          "nome_componente": "Português",
+          "p1_letivo": {
+            "nota": 78,
+            "aulas_dadas": 200,
+            "presenca": 92
+          },
+          "p2_letivo": {
+            "nota": 85,
+            "aulas_dadas": 200,
+            "presenca": 95
+          },
+          "p3_letivo": {
+            "nota": 85,
+            "aulas_dadas": 200,
+            "presenca": 95
+          },
+          "p4_letivo": {
+            "nota": 85,
+            "aulas_dadas": 200,
+            "presenca": 95
+          },
+          "calculo_geral": {
+              "nota_parcial_final": 70,
+              "recuperacao_final": 80,
+              "resultado_anual": 60,
+              "total_aulas_dadas": 400,
+              "total_frequencia": 400,
+              "porcentagem_frequencia": 80
+          },
+          "nota_final": 78,
+          "observacao": ""
+        },
+        {
+          "area": "Ciências Humanas",
+          "nome_componente": "Geografia",
+          "p1_letivo": {
+            "nota": 92,
+            "aulas_dadas": 200,
+            "presenca": 97
+          },
+          "p2_letivo": {
+            "nota": 85,
+            "aulas_dadas": 200,
+            "presenca": 95
+          },
+          "p3_letivo": {
+            "nota": 85,
+            "aulas_dadas": 200,
+            "presenca": 95
+          },
+          "p4_letivo": {
+            "nota": 85,
+            "aulas_dadas": 200,
+            "presenca": 95
+          },
+          "calculo_geral": {
+              "nota_parcial_final": 70,
+              "recuperacao_final": 80,
+              "resultado_anual": 60,
+              "total_aulas_dadas": 400,
+              "total_frequencia": 400,
+              "porcentagem_frequencia": 80
+          },
+          "nota_final": 92,
+          "observacao": ""
+        }
+      ]
+    },
+    
+    {
+      "id": 2,
+      "totaldialetivo": "200",
+      "escola_nome": "Escola ABC",
+      "aluno_nome": "Lucas Rangel",
+      "sexo": "Masculino",
+      "mae": "Mariana da Silva",
+      "pai": "",
+      "data_nascimento": "06/12/2007",
+      "naturalidade": "Rio de janeiro",
+      "endereco": "Rua das Flores, 123",
+      "anoletivo": "2023",
+      "segmento_escolar": "Fundamental I",
+      "ano_de_escolaridade": "3º ano",
+      "turma": "A",
+      "turno": "Manhã",
+      "aluno_foi_considerado": "Aprovado",
+      "data": "05/07/2023",
+      "controle_de_frequencia": {
+        "p1": 0,
+        "p2": 0,
+        "p3": 0,
+        "p4": 0,
+        "percentual_de_frequencia": 60,
+        "total_frequencia": 0,
+        "total": 0
+      },
+      "observacao_geral": "",
+      "resultado_final": "aprovado",
+      "aulas_dadas": 300,
+      "calculo_global_aulas": 0.5,
+      "calculo_global_frequencia": 0.7,
+      "componentes_curriculares": [
+        {
+          "area": "Matemática",
+          "nome_componente": "Matemática",
+          "p1_letivo": {
+            "nota": 85,
+            "aulas_dadas": 200,
+            "presenca": 95
+          },
+          "p2_letivo": {
+            "nota": 85,
+            "aulas_dadas": 200,
+            "presenca": 95
+          },
+          "p3_letivo": {
+            "nota": 85,
+            "aulas_dadas": 200,
+            "presenca": 95
+          },
+          "p4_letivo": {
+            "nota": 85,
+            "aulas_dadas": 200,
+            "presenca": 95
+          },
+          "calculo_geral": {
+              "nota_parcial_final": 70,
+              "recuperacao_final": 80,
+              "resultado_anual": 60,
+              "total_aulas_dadas": 400,
+              "total_frequencia": 400,
+              "porcentagem_frequencia": 80
+          },
+          "nota_final": 85,
+          "observacao": ""
+        },
+        {
+          "area": "Linguagens",
+          "nome_componente": "Português",
+          "p1_letivo": {
+            "nota": 78,
+            "aulas_dadas": 200,
+            "presenca": 92
+          },
+          "p2_letivo": {
+            "nota": 85,
+            "aulas_dadas": 200,
+            "presenca": 95
+          },
+          "p3_letivo": {
+            "nota": 85,
+            "aulas_dadas": 200,
+            "presenca": 95
+          },
+          "p4_letivo": {
+            "nota": 85,
+            "aulas_dadas": 200,
+            "presenca": 95
+          },
+          "calculo_geral": {
+              "nota_parcial_final": 70,
+              "recuperacao_final": 80,
+              "resultado_anual": 60,
+              "total_aulas_dadas": 400,
+              "total_frequencia": 400,
+              "porcentagem_frequencia": 80
+          },
+          "nota_final": 78,
+          "observacao": ""
+        },
+        {
+          "area": "Ciências Humanas",
+          "nome_componente": "Geografia",
+          "p1_letivo": {
+            "nota": 92,
+            "aulas_dadas": 200,
+            "presenca": 97
+          },
+          "p2_letivo": {
+            "nota": 85,
+            "aulas_dadas": 200,
+            "presenca": 95
+          },
+          "p3_letivo": {
+            "nota": 85,
+            "aulas_dadas": 200,
+            "presenca": 95
+          },
+          "p4_letivo": {
+            "nota": 85,
+            "aulas_dadas": 200,
+            "presenca": 95
+          },
+          "calculo_geral": {
+              "nota_parcial_final": 70,
+              "recuperacao_final": 80,
+              "resultado_anual": 60,
+              "total_aulas_dadas": 400,
+              "total_frequencia": 400,
+              "porcentagem_frequencia": 80
+          },
+          "nota_final": 92,
+          "observacao": ""
+        }
+      ]
+    }
+    
+  ]
+  
+
+}
